@@ -96,6 +96,12 @@
     margin-bottom: 20px;
 }
 
+#about-header {
+    font-weight: 600;
+    font-size: 26px;
+    margin-bottom: 40px;
+}
+
 .app-window {
     position: relative;
     background-color: #363636;
@@ -283,6 +289,7 @@
 
     .about-text {
         padding: 20px 40px;
+        max-width: 41vw;
         margin-left: 40px;
     }
 
